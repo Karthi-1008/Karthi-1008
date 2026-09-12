@@ -59,7 +59,7 @@
 </a>
 
 <!-- Telegram -->
-<a href="https://t.me/917904913070" target="blank">
+<a href="[https://t.me/917904913070](https://t.me/Karthik24fhf)" target="blank">
   <img align="center" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="telegram" height="40" width="40" />
 </a>
 
